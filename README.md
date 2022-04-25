@@ -8,3 +8,6 @@ https://www.postman.com/supply-geoscientist-26889346/workspace/simple-api/collec
 
 //Boilerplate API with Email Sign Up, Verification, Authentication & Forgot Password
 https://documenter.getpostman.com/view/14364080/UVyxNscB
+
+Documentation API VIDEO
+https://youtu.be/1c8I3EK_Cc8
